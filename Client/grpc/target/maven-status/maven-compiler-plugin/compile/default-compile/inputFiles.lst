@@ -1,0 +1,4 @@
+/home/manh/services_test/api/grpc/src/main/java/com/example/Client.java
+/home/manh/services_test/api/grpc/target/generated-sources/protobuf/java/order/Order.java
+/home/manh/services_test/api/grpc/target/generated-sources/protobuf/grpc-java/order/OrderServiceGrpc.java
+/home/manh/services_test/api/grpc/src/main/java/com/example/App.java
